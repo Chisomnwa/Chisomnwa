@@ -10,7 +10,7 @@
 
 * 💞️ I’m looking to collaborate on projects that would help me improve my skills and experience.
 
-*📫 How to reach me : Linkedin: @Chisom Promise, Twitter: @Prosomie
+* 📫 How to reach me : Linkedin: @Chisom Promise, Twitter: @Prosomie
 
 <!--
 **Chisomnwa/Chisomnwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
