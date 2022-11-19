@@ -2,12 +2,13 @@
 
 * 👋 I'm a Data Analyst and a Python Programmer
 
-*👀 I'm interested in Data and Business Analytics
-*🌱 I currently use Python, SQL, Excel and Bininess Intelligence tools like Power BI and Tableau for data querrying, manipulation and visualization
+* 👀 I'm interested in Data and Business Analytics
 
-*📫 When I'm not coding, I am watching interesting and fun youtube videos on my favourite youtube channels or I play chess. ♟
+* 🌱 I currently use Python, SQL, Excel and Business Intelligence tools like Power BI and Tableau for data querrying, manipulation and visualization
 
-*💞️ I’m looking to collaborate on projects that would help me improve my skills and experience.
+* 📫 When I'm not coding, I am watching interesting and fun youtube videos on my favourite youtube channels or I play chess. ♟
+
+* 💞️ I’m looking to collaborate on projects that would help me improve my skills and experience.
 
 *📫 How to reach me : Linkedin: @Chisom Promise, Twitter: @Prosomie
 
