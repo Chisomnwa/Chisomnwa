@@ -8,7 +8,7 @@
 
 * 🎥 When I'm not coding, I am watching interesting and fun youtube videos on my favourite youtube channels or I play chess. ♟
 
-* 💞️ Iam available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and Twitter.
+* 💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and Twitter.
 
 * 💞️ I am also looking to collaborate on projects that would help me improve my skills and experience.
 
