@@ -1,6 +1,6 @@
 * 👋 Hi there, my name is Chisom
 
-* 👋 I'm a Data and Business Inteligence Analyst
+* 👋 I'm a Data and Business Intelligence Analyst
 
 * 👀 I'm interested in Data and Business Analytics
 
