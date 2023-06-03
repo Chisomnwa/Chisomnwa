@@ -10,7 +10,7 @@
 
 * 💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and Twitter.
 
-* 📫 How to reach me : Linkedin: @Chisom Promise, Twitter: @prosomie
+* 📫 How to reach me : Linkedin: @Chisom Nnamani, Twitter: @ada__nkanu
 
 <!--
 **Chisomnwa/Chisomnwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
