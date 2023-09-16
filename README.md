@@ -1,6 +1,6 @@
 * 👋 Hi there, my name is Chisom Nnamani
 
-* 👋 I'm a Data and Business Intelligence Developer (Data Engineer in view)
+* 👋 I'm a Data and Business Intelligence Developer
 
 * 👀 I'm interested in Data and Business Analytics
 
