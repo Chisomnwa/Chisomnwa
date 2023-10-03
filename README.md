@@ -1,9 +1,9 @@
 * 👋 Hi there, my name is Chisom Nnamani
 
-* 👋 I'm a Data and Business Intelligence Developer
+* 👋 I'm a Data Analyst and Data Engineer
 
-* 👀 I'm interested in Data and Business Analytics
-
+* 👀 I'm interested in Data Analytics and Engineering
+  
 * 🌱 I currently use Python, SQL, Excel and Business Intelligence tools like Power BI and Tableau for data querrying, manipulation and visualization
 
 * 🎥 When I'm not coding, I'm listening to music, my favourite podcasts, watching interesting and fun youtube videos on my favourite youtube channels or I play chess. ♟
