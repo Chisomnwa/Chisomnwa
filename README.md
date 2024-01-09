@@ -1,16 +1,14 @@
 * 👋 Hi there, my name is Chisom Nnamani
 
-* 👋 I'm a Data Engineer and Analyst
-
-* 👀 I'm interested in Data Engineering and Analytics
+* 👋 I'm a Data & Analytics Engineer
+  
+* 👀 I'm interested in Data Analytics and Engineering
   
 * 🌱 I currently use Python, SQL, Excel and Business Intelligence tools like Power BI and Tableau for data querrying, manipulation and visualization
 
 * 🎥 When I'm not coding, I'm listening to music, my favourite podcasts, watching interesting and fun youtube videos on my favourite youtube channels or I play chess. ♟
 
-* 💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and Twitter.
-
-* 📫 How to reach me : Linkedin: @Chisom Nnamani, Twitter: @Ada__Nkanu
+* 💞️ I am available for Data Analytics and Data Engineer roles. Kindly reach out to me via [Linkedin](https://www.linkedin.com/in/chisom-nnamani/) and [Twitter](https://twitter.com/som_nnamani) and check out my [medium articles](https://medium.com/@chisomnnamani).
 
 <!--
 **Chisomnwa/Chisomnwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
