@@ -1,6 +1,6 @@
 * 👋 Hi there, my name is Chisom Nnamani
 
-* 👋 I'm a Data & Analytics Engineer
+* 👋 I'm a Data Engineer
   
 * 👀 I'm interested in Data Engineering
   
