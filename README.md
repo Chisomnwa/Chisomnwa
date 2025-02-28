@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   <a href="https://medium.com/@chisomnnamani">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>&nbsp;
+  <a href="https://medium.com/@chisomnnamani">
+  <img src="https://img.shields.io/badge/medium-%23D2B48C.svg?&style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
+</a>&nbsp;
 </p>
 
 Hi, I'm Chisom Nnamani, but you can call me Som Nwa.
