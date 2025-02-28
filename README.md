@@ -18,9 +18,11 @@
 
 Hi, I'm Chisom Nnamani, but you can call me Som Nwa.
 
+
 ## 🚀 About me:
 
 I'm a passionate Data Engineer dedicated to crafting scalable data solutions that drive business growth. With a strong focus on building robust data pipelines, designing efficient databases, and creating analytics solutions, I thrive on solving complex data challenges.
+
 
 ## ✨ When I'm not immersed in code, you'll find me:
 - 🎧 Listening to music or my favorite podcasts
@@ -77,14 +79,6 @@ I love sharing my knowledge and experiences through writing. Check out my featur
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chisomnwa&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
 
 
-<u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
-----------------------
+## Profile Trophies
 
---------------------
-### Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SartMorgs)](https://github.com/ryo-ma/github-profile-trophy)
-
-Second
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Nancy9ice)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chisomnwa)](https://github.com/ryo-ma/github-profile-trophy)
