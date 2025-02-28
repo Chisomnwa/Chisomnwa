@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chisom</h1>
 <h3 align="center">Data Engineer 📊 || Data Solutions Architect 👨‍💻 || Analytics Enthusiast 🐳 </h3>
 
+## 🚀 About me:
+
+I'm a passionate Data Engineer dedicated to crafting scalable data solutions that drive business growth. With a strong focus on building robust data pipelines, designing efficient databases, and creating analytics solutions, I thrive on solving complex data challenges.
+
+## And here's how to reach me:
 <p align="center">
   <a href="https://chisom-nnamani.netlify.app">
     <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
@@ -15,13 +20,6 @@
     <img src="https://img.shields.io/badge/medium-%23D2B48C.svg?&style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
   </a>&nbsp;
 </p>
-
-Hi, I'm Chisom Nnamani, but you can call me Som Nwa.
-
-
-## 🚀 About me:
-
-I'm a passionate Data Engineer dedicated to crafting scalable data solutions that drive business growth. With a strong focus on building robust data pipelines, designing efficient databases, and creating analytics solutions, I thrive on solving complex data challenges.
 
 
 ## ✨ When I'm not immersed in code, you'll find me:
