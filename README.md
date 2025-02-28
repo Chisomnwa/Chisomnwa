@@ -1,19 +1,3 @@
-<!--
-**Chisomnwa/Chisomnwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-------------------------------------
-
 <h1 align="center">Hi 👋, I'm Chisom</h1>
 <h3 align="center">Data Engineer 📊 || Data Solutions Architect 👨‍💻 || Analytics Enthusiast 🐳 </h3>
 
@@ -34,18 +18,35 @@ Here are some ideas to get you started:
 
 Hi, I'm Chisom Nnamani, but you can call me Som Nwa.
 
-**🚀 About me:**
+### 🚀 About me:
 
 I'm a passionate Data Engineer dedicated to crafting scalable data solutions that drive business growth. With a strong focus on building robust data pipelines, designing efficient databases, and creating analytics solutions, I thrive on solving complex data challenges.
 
-**When I'm not immersed in code, you'll find me:**
+### ✨ When I'm not immersed in code, you'll find me:
 - 🎧 Listening to music or my favorite podcasts
 - 🎥 Watching fun and insightful YouTube videos
 - ♟️ Playing chess - Still a novice, but I’ve got the basics down! ☺️
 
 
 ### 🛠️ Tech Stack:
-Here are some of the tools and technologies I work with:
+**Here are some of the tools and technologies I work with:**
+
+**ETL Tools:** Apache Airflow
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/airflow/airflow.png" alt="Apache Airflow"></code>
+
+Big Data: Apache Spark
+
+Databases: PostgreSQL, MySQL, MongoDB, Snowflake
+
+Cloud Platforms: AWS (S3, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow)
+
+Programming & Scripting
+Languages: Python, SQL, Bash
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+Visualization & Analytics
+Tools: Tableau, Power BI, Looker
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://i2.wp.com/hypi.io/wp-content/uploads/2020/07/5da6137a51a426ffcbfdca45_Golang.jpeg?fit=1200%2C800&ssl=1"></code>
@@ -62,36 +63,10 @@ Here are some of the tools and technologies I work with:
 <br>
 
 
-
-
-💡 What I Do
-Data Engineering: Building and optimizing data pipelines for seamless data flow.
-
-Data Architecture: Designing scalable and efficient data systems.
-
-Analytics Solutions: Creating tools and dashboards for actionable insights.
-
-Collaboration: Working with cross-functional teams to deliver data-driven solutions.
-
 🛠️ Tech Stack
 Here are some of the tools and technologies I work with:
 
-Data Engineering
-ETL Tools: Apache Airflow, Apache NiFi, Talend
 
-Big Data: Apache Spark, Hadoop, Kafka
-
-Databases: PostgreSQL, MySQL, MongoDB, Snowflake
-
-Cloud Platforms: AWS (S3, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow)
-
-Programming & Scripting
-Languages: Python, SQL, Bash
-
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
-
-Visualization & Analytics
-Tools: Tableau, Power BI, Looker
 
 
 🌱 What I'm Learning
