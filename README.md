@@ -1,16 +1,3 @@
-* 👋 Hi there, my name is Chisom Nnamani
-
-* 👋 I'm a Data Engineer
-  
-* 👀 I'm interested in Data Engineering
-  
-* 🌱Dedicated to crafting **Data Solutions** with an emphasis on scalable data architectures. I specialize in implementing robust data pipelines, designing efficient databases, and creating analytics solutions to meet the unique needs of businesses.
-  
-* 🎥 When I'm not coding, I'm listening to music, my favorite podcasts, watching interesting and fun YouTube videos on my favorite youtube channels, or playing chess. ♟
-
-* 💞️ I am available for Data Analytics and Data Engineer roles. Kindly reach out to me via [Linkedin](https://www.linkedin.com/in/chisom-nnamani/) and [Twitter](https://twitter.com/som_nnamani) and check out my [medium articles](https://medium.com/@chisomnnamani).
-----------------------------------
-
 <!--
 **Chisomnwa/Chisomnwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,46 +13,56 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ------------------------------------
+
 <h1 align="center">Hi 👋, I'm Chisom</h1>
 <h3 align="center">Data Engineer 📊 || Data Solutions Architect 👨‍💻 || Analytics Enthusiast 🐳 </h3>
 
 <p align="center">
   <a href="https://chisom-nnamani.netlify.app">
-  <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
-</a>&nbsp;
+    <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/chisom-nnamani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://mobile.x.com/som_nnamani">
+  <a href="https://mobile.twitter.com/som_nnamani">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>&nbsp;
- <a href="https://medium.com/@chisomnnamani">
-  <img src="https://img.shields.io/badge/medium-%23D2B48C.svg?&style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
-</a>&nbsp;
+  <a href="https://medium.com/@chisomnnamani">
+    <img src="https://img.shields.io/badge/medium-%23D2B48C.svg?&style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
+  </a>&nbsp;
 </p>
 
 Hi, I'm Chisom Nnamani, but you can call me Som Nwa.
 
-**About me:**
+**🚀 About me:**
 
-- 📚 I'm interested in Data Engineering and I keep learning about data world
-- 🌱 Dedicated to crafting **Data Solutions** with an emphasis on scalable data architectures. I specialize in implementing robust data pipelines, designing efficient databases, and creating analytics solutions to meet the unique needs of businesses.
-- 🎥 When I'm not coding, I'm listening to music, my favorite podcasts, watching interesting and fun YouTube videos on my favorite youtube channels, or playing chess. ♟
-- 🏊 **I'm currently improving my skills on**
-![Python](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![Airflow](https://img.shields.io/badge/Airflow-%7C-redgreen)    ![Docker](https://img.shields.io/badge/Docker-%7C-blue)   ![Golang](https://img.shields.io/badge/Golang-%7C-blue)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-
-
-
-
-👋 Hi there, I'm Chisom Nnamani
-Data Engineer | Data Solutions Architect | Analytics Enthusiast
-🚀 About Me
 I'm a passionate Data Engineer dedicated to crafting scalable data solutions that drive business growth. With a strong focus on building robust data pipelines, designing efficient databases, and creating analytics solutions, I thrive on solving complex data challenges.
 
-When I'm not immersed in code, you'll find me:
-🎧 Listening to music or my favorite podcasts
-🎥 Watching fun and insightful YouTube videos
-♟️ Playing chess (always up for a game!)
+**When I'm not immersed in code, you'll find me:**
+- 🎧 Listening to music or my favorite podcasts
+- 🎥 Watching fun and insightful YouTube videos
+- ♟️ Playing chess - Still a novice, but I’ve got the basics down! ☺️
+
+
+### 🛠️ Tech Stack:
+Here are some of the tools and technologies I work with:
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://i2.wp.com/hypi.io/wp-content/uploads/2020/07/5da6137a51a426ffcbfdca45_Golang.jpeg?fit=1200%2C800&ssl=1"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/a0/05/a6a0054d-9c72-f9c9-9a98-2f871a2b159d/source/512x512bb.jpg"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="30" src="https://miro.medium.com/max/682/0*60Wj8lmsW8ABqkYt.png"></code>
+<br>
+<br>
+
+
+
 
 💡 What I Do
 Data Engineering: Building and optimizing data pipelines for seamless data flow.
@@ -91,12 +88,11 @@ Cloud Platforms: AWS (S3, Redshift, Glue), Google Cloud Platform (BigQuery, Data
 Programming & Scripting
 Languages: Python, SQL, Bash
 
-Libraries: Pandas, NumPy, PySpark
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 Visualization & Analytics
 Tools: Tableau, Power BI, Looker
 
-Frameworks: D3.js, Matplotlib, Seaborn
 
 🌱 What I'm Learning
 I'm always expanding my skill set! Currently, I'm diving deeper into:
