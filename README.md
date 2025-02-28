@@ -49,7 +49,13 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" alt="Oracle"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 
-<code><img height="30" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4"></code>
+okay.....
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" alt="Google Cloud"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spark/spark.png" alt="Apache Spark"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerbi/powerbi.png" alt="Power BI"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png" alt="Tableau"></code>
 
 Big Data: Apache Spark
 
