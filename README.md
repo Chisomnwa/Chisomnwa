@@ -10,53 +10,7 @@
 
 * 💞️ I am available for Data Analytics and Data Engineer roles. Kindly reach out to me via [Linkedin](https://www.linkedin.com/in/chisom-nnamani/) and [Twitter](https://twitter.com/som_nnamani) and check out my [medium articles](https://medium.com/@chisomnnamani).
 ----------------------------------
-<h1 align="center">Hi 👋, I'm Chisom</h1>
-<h3 align="center">Data Engineer 📊 || Data Solutions Architect 👨‍💻 || Analytics Enthusiast 🐳 </h3>
 
-----------
-<p align="center">
-  <!<a href="https://chisom-nnamani.netlify.app">
-  <img src="https://img.shields.io/badge/portfolio-%23ADFF2F.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
- </a>&nbsp;-->
-  <a href="https://chisom-nnamani.netlify.app">
-  <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
-</a>&nbsp;
-  <a href="https://www.linkedin.com/in/chisom-nnamani/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://mobile.x.com/som_nnamani">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>&nbsp;
-  <a href="https://medium.com/@chisomnnamani">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>&nbsp;
-</p>
-
------------------------------------
-<a href="https://chisom-nnamani.netlify.app">
-  <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
-</a>&nbsp;
-
-----------
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/@som_nnamani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@som_nnamani" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/chisom_nnamani/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chisom_nnamani" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@chisomnnamani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chisomnnamani" height="30" width="40" />
-  </a>
-  <a href="https://chisom-nnamani.netlify.app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio Website" height="30" width="40" />
-  </a>
-</p>
-
---------
 <!--
 **Chisomnwa/Chisomnwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -71,6 +25,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+------------------------------------
+<h1 align="center">Hi 👋, I'm Chisom</h1>
+<h3 align="center">Data Engineer 📊 || Data Solutions Architect 👨‍💻 || Analytics Enthusiast 🐳 </h3>
+
+<p align="center">
+  <a href="https://chisom-nnamani.netlify.app">
+  <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
+</a>&nbsp;
+  <a href="https://www.linkedin.com/in/chisom-nnamani/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://mobile.x.com/som_nnamani">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp;
+  <a href="https://medium.com/@chisomnnamani">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>&nbsp;
+</p>
+
+Hi, I'm Chisom Nnamani, but you can call me Som Nwa.
+
+**About me:**
+
+- 📚 I'm interested in Data Engineering and I keep learning about data world
+- 🌱 Dedicated to crafting **Data Solutions** with an emphasis on scalable data architectures. I specialize in implementing robust data pipelines, designing efficient databases, and creating analytics solutions to meet the unique needs of businesses.
+- 🎥 When I'm not coding, I'm listening to music, my favorite podcasts, watching interesting and fun YouTube videos on my favorite youtube channels, or playing chess. ♟
+- 🏊 **I'm currently improving my skills on**
+![Python](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![Airflow](https://img.shields.io/badge/Airflow-%7C-redgreen)    ![Docker](https://img.shields.io/badge/Docker-%7C-blue)   ![Golang](https://img.shields.io/badge/Golang-%7C-blue)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
+
 
 
 👋 Hi there, I'm Chisom Nnamani
