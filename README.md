@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <a href="https://mobile.x.com/som_nnamani">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>&nbsp;
-  <a href="https://medium.com/@chisomnnamani">
+ <a href="https://medium.com/@chisomnnamani">
   <img src="https://img.shields.io/badge/medium-%23D2B48C.svg?&style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
 </a>&nbsp;
 </p>
