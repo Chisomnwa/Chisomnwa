@@ -15,9 +15,12 @@
 
 ----------
 <p align="center">
-  <a href="https://chisom-nnamani.netlify.app">
+  <!<a href="https://chisom-nnamani.netlify.app">
   <img src="https://img.shields.io/badge/portfolio-%23ADFF2F.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
- </a>&nbsp;
+ </a>&nbsp;-->
+  <a href="https://chisom-nnamani.netlify.app">
+  <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
+</a>&nbsp;
   <a href="https://www.linkedin.com/in/chisom-nnamani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
