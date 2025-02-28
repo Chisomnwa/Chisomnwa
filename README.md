@@ -46,24 +46,17 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png" alt="Tableau"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerbi/powerbi.png" alt="Power BI"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" alt="Oracle"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
 Big Data: Apache Spark
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_cloud_platform-512.png" alt="Google Cloud"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/15_Spark_logo_logos-512.png" alt="Apache Spark"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/powerbi-512.png" alt="Power BI"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/tableau-software-512.png" alt="Tableau"></code>
 
-Databases: PostgreSQL, MySQL, MongoDB, Snowflake
+----------
 
-Cloud Platforms: AWS (S3, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow)
-
-Programming & Scripting
-Languages: Python, SQL, Bash
-
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
-
-Visualization & Analytics
-Tools: Tableau, Power BI, Looker
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://i2.wp.com/hypi.io/wp-content/uploads/2020/07/5da6137a51a426ffcbfdca45_Golang.jpeg?fit=1200%2C800&ssl=1"></code>
