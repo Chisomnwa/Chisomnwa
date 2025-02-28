@@ -28,6 +28,9 @@ https://www.linkedin.com/in/chisom-nnamani/
 ----------
 <p align="center">
   <a href="https://chisom-nnamani.netlify.app">
+  <img src="https://img.shields.io/badge/portfolio-%23ADFF2F.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
+ </a>&nbsp;
+  <a href="https://chisom-nnamani.netlify.app">
     <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/chisom-nnamani/">
