@@ -58,22 +58,15 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 
 
 ### ✍️ Blogs & Writing
-I love sharing my knowledge and experiences through writing. Check out my articles on Medium:
+I love sharing my knowledge and experiences through writing. Check out my featured blog posts:
 
-- (How to Build Scalable Data Pipelines with Apache Airflow)[]
+<!-- MEDIUM:START -->
+- [Understanding Data Modeling Concepts as a Data Engineer](https://medium.com/towards-data-engineering/understanding-data-modeling-concepts-as-a-data-engineer-a0b9637027e3)
+- [Building OLAP Dimensional Model in BigQuery, using dbt as a Data Transformation Tool](https://medium.com/towards-data-engineering/building-olap-dimensional-model-in-bigquery-using-dbt-as-a-data-transformation-tool-bfd087293965)
+- [ELT Data Pipeline with GCP and Apache Airflow](https://medium.com/towards-data-engineering/elt-data-pipeline-with-gcp-and-apache-airflow-86c6d72544ef)
+<!-- MEDIUM:END -->
 
-- (Introduction to Data Warehousing in the Cloud)[]
 
-- (5 Tips for Aspiring Data Engineers)[]
-  
-📚 Read more on Medium
-
---------------------
-### Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SartMorgs)](https://github.com/ryo-ma/github-profile-trophy)
-
- 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
   <summary><b>⚡ Github Stats</b></summary>
@@ -87,13 +80,11 @@ I love sharing my knowledge and experiences through writing. Check out my articl
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
 ----------------------
 
-## Featured Blogposts ✍️
+--------------------
+### Profile Trophies
 
-<!-- MEDIUM:START -->
-- [Building a Pipeline for your Medallion Architecture on your Microsoft Fabric Lakehouse](https://medium.com/@amandinancy16/building-a-pipeline-for-your-medallion-architecture-on-microsft-fabric-1fe40b63b2d3)
-- [Reverse Geocoding Using PostGIS and Tiger Dataset](https://medium.com/@amandinancy16/reverse-geocoding-using-postgis-and-tiger-dataset-b59b60ca071b)
-- [Reverse Geocoding with Geopy](https://medium.com/@amandinancy16/reverse-geocoding-with-geopy-c26cfb63f74c)
-- [Data Storytelling: The Way to Stakeholders’ Hearts (Part 1)](https://medium.com/@amandinancy16/data-storytelling-the-way-to-stakeholders-hearts-part-1-fbfd0a308ad0)
-<!-- MEDIUM:END -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=SartMorgs)](https://github.com/ryo-ma/github-profile-trophy)
+
+Second
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Nancy9ice)
