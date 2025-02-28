@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/chisom-nnamani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://mobile.x.com/som-nnamani">
+  <a href="https://mobile.x.com/som_nnamani">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>&nbsp;
   <a href="https://medium.com/@chisomnnamani">
@@ -31,8 +31,7 @@
 
 -----------------------------------
 
-<a href="https://mobile.twitter.com/sartor_morgana"><img src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
-------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/@som_nnamani" target="blank">
