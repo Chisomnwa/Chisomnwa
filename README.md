@@ -32,7 +32,10 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 **Here are some of the tools and technologies I work with:**
 
 **ETL Tools:** Apache Airflow
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/airflow/airflow.png" alt="Apache Airflow"></code>
+
+<code><img height="30" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4"></code>
 
 Big Data: Apache Spark
 
