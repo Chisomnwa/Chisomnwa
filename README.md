@@ -48,104 +48,44 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 
-----
-from Chat
 
-![Google Cloud](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_cloud_platform-512.png)
+### 🎯 Goals
+- Contribute to open-source data engineering projects.
 
+- Share my knowledge through blogs, tutorials, and talks.
 
-
-Big Data: Apache Spark
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_cloud_platform-512.png" alt="Google Cloud"></code>
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/15_Spark_logo_logos-512.png" alt="Apache Spark"></code>
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/powerbi-512.png" alt="Power BI"></code>
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/tableau-software-512.png" alt="Tableau"></code>
-
-----------
+- Collaborate on innovative data solutions that make a real-world impact.
 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://i2.wp.com/hypi.io/wp-content/uploads/2020/07/5da6137a51a426ffcbfdca45_Golang.jpeg?fit=1200%2C800&ssl=1"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/a0/05/a6a0054d-9c72-f9c9-9a98-2f871a2b159d/source/512x512bb.jpg"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4"></code>
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://miro.medium.com/max/682/0*60Wj8lmsW8ABqkYt.png"></code>
-<br>
-<br>
-
-
-🛠️ Tech Stack
-Here are some of the tools and technologies I work with:
-
-
-
-
-🌱 What I'm Learning
-I'm always expanding my skill set! Currently, I'm diving deeper into:
-
-Machine Learning Engineering: Building ML pipelines with TensorFlow and PyTorch.
-
-DataOps: Streamlining data workflows for better efficiency.
-
-Advanced Cloud Solutions: Exploring serverless architectures and containerization (Docker, Kubernetes).
-
-🎯 Goals
-Contribute to open-source data engineering projects.
-
-Share my knowledge through blogs, tutorials, and talks.
-
-Collaborate on innovative data solutions that make a real-world impact.
-
-📂 Featured Projects
-Here are some of the projects I've worked on:
-
-1. Real-Time Data Pipeline for E-Commerce Analytics
-Built a real-time data pipeline using Apache Kafka and Spark Streaming to process and analyze e-commerce transactions.
-
-View Project (add link to your GitHub repo or blog post)
-
-2. Cloud-Based Data Warehouse for Retail Insights
-Designed and implemented a cloud-based data warehouse on AWS Redshift for a retail client, enabling faster and more accurate reporting.
-
-View Project (add link to your GitHub repo or blog post)
-
-3. Interactive Dashboard for Sales Performance
-Created an interactive Tableau dashboard to visualize sales performance and identify trends.
-
-View Project (add link to your GitHub repo or blog post)
-
-✍️ Blogs & Writing
+### ✍️ Blogs & Writing
 I love sharing my knowledge and experiences through writing. Check out my articles on Medium:
 
-How to Build Scalable Data Pipelines with Apache Airflow
+- (How to Build Scalable Data Pipelines with Apache Airflow)[]
 
-Introduction to Data Warehousing in the Cloud
+- (Introduction to Data Warehousing in the Cloud)[]
 
-5 Tips for Aspiring Data Engineers
+- (5 Tips for Aspiring Data Engineers)[]
+  
 📚 Read more on Medium
 
-📫 Let's Connect!
-I'm always open to collaboration, new opportunities, or just a chat about data, tech, or chess!
-
-LinkedIn: Chisom Nnamani
-
-Twitter: @som_nnamani
-
-Medium: Chisom Nnamani
-
-Email: your-email@example.com (add your email if you're comfortable sharing)
-
-⚡ Fun Fact
-I once built a data pipeline to analyze my chess game history and identify my most common mistakes. Turns out, I need to work on my endgame strategy! ♟️
-
-
 --------------------
+### Profile Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SartMorgs)](https://github.com/ryo-ma/github-profile-trophy)
+
+ 
+<h2>ℹ️ &nbsp;Github Info</h2>
+
+  <summary><b>⚡ Github Stats</b></summary>
+  
+<i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SartMorgs&show_icons=true&locale=en&hide_border=true" alt="nikita" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SartMorgs&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
+
+
+<u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
+----------------------
 
 ## Featured Blogposts ✍️
 
