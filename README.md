@@ -30,6 +30,11 @@
 </p>
 
 -----------------------------------
+<a href="https://chisom-nnamani.netlify.app">
+  <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
+</a>&nbsp;
+
+----------
 
 
 <h3 align="left">Connect with me:</h3>
