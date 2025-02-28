@@ -13,30 +13,15 @@
 <h1 align="center">Hi 👋, I'm Chisom</h1>
 <h3 align="center">Data Engineer 📊 || Data Solutions Architect 👨‍💻 || Analytics Enthusiast 🐳 </h3>
 
-![](https://komarev.com/ghpvc/?username=your-Chisomnwa)
-
-https://www.linkedin.com/in/chisom-nnamani/
-
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/chisom-nnamani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://mobile.twitter.com/som-nnamani"><img src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
-</p>
-<a href="mailto:morgana.sartor@outlook.com"><img src="https://img.shields.io/badge/outlook-blue.svg?&style=for-the-badge&logo=Outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
-<a href="https://www.instagram.com/sartmorg/"><img src="https://img.shields.io/badge/instagram-purple.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
-
 ----------
 <p align="center">
   <a href="https://chisom-nnamani.netlify.app">
   <img src="https://img.shields.io/badge/portfolio-%23ADFF2F.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
  </a>&nbsp;
-  <a href="https://chisom-nnamani.netlify.app">
-    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website" />
-  </a>&nbsp;
   <a href="https://www.linkedin.com/in/chisom-nnamani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://mobile.twitter.com/som-nnamani">
+  <a href="https://mobile.x.com/som-nnamani">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>&nbsp;
   <a href="https://medium.com/@chisomnnamani">
@@ -46,7 +31,7 @@ https://www.linkedin.com/in/chisom-nnamani/
 
 -----------------------------------
 
-
+<a href="https://mobile.twitter.com/sartor_morgana"><img src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
 ------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
