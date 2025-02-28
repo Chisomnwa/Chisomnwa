@@ -18,17 +18,17 @@
 
 Hi, I'm Chisom Nnamani, but you can call me Som Nwa.
 
-### 🚀 About me:
+## 🚀 About me:
 
 I'm a passionate Data Engineer dedicated to crafting scalable data solutions that drive business growth. With a strong focus on building robust data pipelines, designing efficient databases, and creating analytics solutions, I thrive on solving complex data challenges.
 
-### ✨ When I'm not immersed in code, you'll find me:
+## ✨ When I'm not immersed in code, you'll find me:
 - 🎧 Listening to music or my favorite podcasts
 - 🎥 Watching fun and insightful YouTube videos
 - ♟️ Playing chess - Still a novice, but I’ve got the basics down! ☺️
 
 
-### 🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 **Here are some of the tools and technologies I work with:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
@@ -49,7 +49,7 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 
 
-### 🎯 Goals
+## 🎯 Goals
 - Contribute to open-source data engineering projects.
 
 - Share my knowledge through blogs, tutorials, and talks.
@@ -57,7 +57,7 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 - Collaborate on innovative data solutions that make a real-world impact.
 
 
-### ✍️ Blogs & Writing
+## ✍️ Blogs & Writing
 I love sharing my knowledge and experiences through writing. Check out my featured blog posts:
 
 <!-- MEDIUM:START -->
@@ -71,10 +71,10 @@ I love sharing my knowledge and experiences through writing. Check out my featur
 
   <summary><b>⚡ Github Stats</b></summary>
   
-<i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
+<i> Note:</i>  These are not an indication of my skill level, just an overview of commits.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SartMorgs&show_icons=true&locale=en&hide_border=true" alt="nikita" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SartMorgs&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chisomnwa&show_icons=true&locale=en&hide_border=true" alt="nikita" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chisomnwa&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
 
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
