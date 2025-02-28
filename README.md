@@ -48,6 +48,12 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 
+----
+from Chat
+
+![Google Cloud](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_cloud_platform-512.png)
+
+
 
 Big Data: Apache Spark
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_cloud_platform-512.png" alt="Google Cloud"></code>
