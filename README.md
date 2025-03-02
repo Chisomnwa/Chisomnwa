@@ -26,7 +26,7 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 ## ✨ When I'm not immersed in code, you'll find me:
 - 🎧 Listening to music or my favorite podcasts
 - 🎥 Watching fun and insightful YouTube videos
-- ♟️ Playing chess - Still a novice, but I’ve got the basics down! ☺️
+- ♟️ Playing chess - Still an amateur, and I’ve got the basics down! ☺️
 
 
 ## 🛠️ Tech Stack:
@@ -48,6 +48,9 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerbi/powerbi.png" alt="Power BI"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
+
+**Other tools and technologies:**
+
 
 
 ## 🎯 Goals
