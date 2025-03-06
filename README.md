@@ -59,15 +59,13 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerbi/powerbi.png" alt="Power BI"></code>
 -->
 
-<!--
+
 ## 🎯 Goals
 - Contribute to open-source data engineering projects.
 
-- Share my knowledge through blogs, tutorials, and talks.
+- Continue sharing my knowledge through blogs, and expand into tutorials and talks.
 
 - Collaborate on innovative data solutions that make a real-world impact.
--->
-
 
 
 ## ✍️ Blogs & Writing
