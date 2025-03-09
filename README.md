@@ -60,12 +60,14 @@ I'm a passionate Data Engineer dedicated to crafting scalable data solutions tha
 -->
 
 
+<!--
 ## 🎯 Goals
 - Contribute to open-source data engineering projects.
 
 - Continue sharing my knowledge through blogs, and expand into tutorials and talks.
 
 - Collaborate on innovative data solutions that make a real-world impact.
+-->
 
 
 ## ✍️ Blogs & Writing
