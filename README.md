@@ -20,7 +20,7 @@
 
 ## 🚀 About me:
 
-I'm a passionate Sofware (AI) & Data Engineer dedicated to crafting scalable data solutions that drive business growth. With a strong focus on building robust data pipelines, designing efficient databases, and creating analytics solutions, I thrive on solving complex data challenges.
+I'm a passionate Software (AI) & Data Engineer dedicated to crafting scalable data solutions that drive business growth. With a strong focus on building robust data pipelines, designing efficient databases, and creating analytics solutions, I thrive on solving complex data challenges.
 
 
 ## ✨ When I'm not immersed in code, you'll find me:
