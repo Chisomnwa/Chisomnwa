@@ -20,7 +20,11 @@
 
 ## 🚀 About me:
 
-I'm a passionate Software (AI) & Data Engineer dedicated to crafting scalable data solutions that drive business growth. With a strong focus on building robust data pipelines, designing efficient databases, and creating analytics solutions, I thrive on solving complex data challenges.
+I'm a Software Engineer with a strong focus on systems thinking, performance, and scalable architecture. I build efficient, reliable systems designed to handle real-world complexity and growth.
+
+I also bring solid experience in data engineering — designing robust data pipelines, modeling efficient databases, and developing analytics solutions that support data-driven decision-making.
+
+I enjoy solving complex problems at the intersection of systems and data, where performance, scalability, and clean design matter most.
 
 
 ## ✨ When I'm not immersed in code, you'll find me:
@@ -32,6 +36,11 @@ I'm a passionate Software (AI) & Data Engineer dedicated to crafting scalable da
 ## 🛠️ Tech Stack:
 **Here are some of the tools and technologies I work with:**
 
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash"></code>
