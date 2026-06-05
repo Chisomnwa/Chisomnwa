@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chisom</h1>
-<h3 align="center">Software (AI) Engineer | Data Engineer </h3>
+<h3 align="center">Software Engineer | Data Engineer </h3>
 
 
 <p align="center">
