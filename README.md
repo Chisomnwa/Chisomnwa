@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chisom</h1>
-<h3 align="center">Software Engineer | Data Engineer </h3>
+<h3 align="center">Data Engineer | Software Engineer</h3>
 
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 ## 🚀 About me:
 
-I'm a Software Engineer with a strong focus on systems thinking, performance, and scalable architecture. I build efficient, reliable systems designed to handle real-world complexity and growth.
+I'm a Data Engineer skilled in designing, building, and maintaining scalable cloud data pipelines and infrastructure. I turn raw data into structured, analytics-ready systems that support better decisions, using tools like dbt, Airflow, and Terraform across AWS and GCP.
 
-I also bring solid experience in data engineering — designing robust data pipelines, modeling efficient databases, and developing analytics solutions that support data-driven decision-making.
+I'm also a Software Engineer with a foundation in backend and data infrastructure. As a Google Summer of Code fellow with the Internet Archive's Open Library, I designed schema changes and migration tooling to bring canonical genre metadata to a 40M+ record catalog, building systems that run safely on millions of real records.
 
 I enjoy solving complex problems at the intersection of systems and data, where performance, scalability, and clean design matter most.
 
