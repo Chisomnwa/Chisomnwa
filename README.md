@@ -20,9 +20,9 @@
 
 ## 🚀 About me:
 
-I'm a Data Engineer skilled in designing, building, and maintaining scalable cloud data pipelines and infrastructure. I turn raw data into structured, analytics-ready systems that support better decisions, using tools like dbt, Airflow, and Terraform across AWS and GCP.
-
 I'm also a Software Engineer with a foundation in backend and data infrastructure. As a Google Summer of Code fellow with the Internet Archive's Open Library, I designed schema changes and migration tooling to bring canonical genre metadata to a 40M+ record catalog, building systems that run safely on millions of real records.
+
+I also bring a background in data engineering, with practical experience designing, building, and maintaining scalable cloud data pipelines and infrastructure, turning raw data into structured, analytics-ready systems that support better decisions, and using tools like dbt, Airflow, and Terraform across AWS and GCP.
 
 I enjoy solving complex problems at the intersection of systems and data, where performance, scalability, and clean design matter most.
 
